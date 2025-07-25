@@ -8,5 +8,10 @@ Then, I connected a Windows 10 virtual machine to the domain and logged in using
 ---
 
 ## 📸 Screenshots
-
-All steps are documented in the `screenshots` folder.
+https://github.com/Abdallahreda97/Active-Directory-Lab---User-Creation-Domain-Join/blob/main/screenshots/User%20Creation1.png
+https://github.com/Abdallahreda97/Active-Directory-Lab---User-Creation-Domain-Join/blob/main/screenshots/User%20Creation2.png
+https://github.com/Abdallahreda97/Active-Directory-Lab---User-Creation-Domain-Join/blob/main/screenshots/User%20Creation3.png
+https://github.com/Abdallahreda97/Active-Directory-Lab---User-Creation-Domain-Join/blob/main/screenshots/User%20Creation4.png
+https://github.com/Abdallahreda97/Active-Directory-Lab---User-Creation-Domain-Join/blob/main/screenshots/Domain%20Join1.png
+https://github.com/Abdallahreda97/Active-Directory-Lab---User-Creation-Domain-Join/blob/main/screenshots/Domain%20Join2.png
+https://github.com/Abdallahreda97/Active-Directory-Lab---User-Creation-Domain-Join/blob/main/screenshots/Domain%20Join3.png
